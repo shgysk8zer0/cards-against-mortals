@@ -3,13 +3,22 @@
 	<head>
 		<meta charset="UTF-8" />
 		<title>Cards Against Mortals</title>
+		<link rel="stylesheet" href="/css/styles/index.css" media="screen" />
+		<script type="module" src="/js/index.js" async=""></script>
 	</head>
 	<body>
 		<header>
-			<audio preload="metadata" controls="">
+			<audio preload="metadata" controls="" itemrop="http://schema.org/AudioObject" itemscope="">
 				<source src="a-good-game-of-cards.ogg" type="audio/ogg" />
 				<source src="a-good-game-of-cards.mp3" type="audio/mpeg" />
 				Your browser does not support the <code>&lt;audio&gt;</code> element.
+				<meta itemprop="author" content="The Doubleclicks" />
+				<meta itemprop="name" content="A Good Game Of Cards" />
+				<meta itemprop="duration" content="T3M3S" />
+				<meta itemprop="encodingFormat" content="ogg" />
+				<meta itemprop="contentSize" content="2.2MB" />
+				<meta itemprop="thumbnailUrl" content="/img/cards-against-humanity.svg" />
+				<meta itemprop="contentUrl" content="/a-good-game-of-cards.ogg" />
 			</audio>
 		</header>
 		<main></main>
