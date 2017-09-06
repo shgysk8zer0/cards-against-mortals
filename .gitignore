@@ -2,6 +2,7 @@
 *.patch
 /node_modules/
 /npm-debug.log
+/img/icons.svg
 *.min*
 *.map
 
