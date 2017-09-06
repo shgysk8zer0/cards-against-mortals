@@ -1,0 +1,8 @@
+<svg width="256" height="256" version="1.1" viewBox="0 0 200 200" viewport="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+	<rect width="200" height="200"/>
+	<text x="8.4472656" y="72.960953" fill="#ffffff" font-family="arial" font-size="40px" font-weight="bold" >
+		<tspan x="8.4472656" y="72.960953" dy="-5">Cards</tspan>
+		<tspan x="8.4472656" y="112.8418">Against</tspan>
+		<tspan x="8.4472656" y="152.72264">Humanity</tspan>
+</text>
+</svg>
